@@ -15,7 +15,8 @@ public class JavaHomework3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Программа для того чтобы узнать название года");
+        System.out.println("Программа для того чтобы узнать название года.");
+        System.out.println("-------------------------------------------------");
     }
     
 }
